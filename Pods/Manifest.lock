@@ -1,0 +1,22 @@
+PODS:
+  - KPDemo (0.0.1)
+
+DEPENDENCIES:
+  - KPDemo (from `https://github.com/yume190/KPDemo`, tag `0.0.1`)
+
+EXTERNAL SOURCES:
+  KPDemo:
+    :git: https://github.com/yume190/KPDemo
+    :tag: 0.0.1
+
+CHECKOUT OPTIONS:
+  KPDemo:
+    :git: https://github.com/yume190/KPDemo
+    :tag: 0.0.1
+
+SPEC CHECKSUMS:
+  KPDemo: 70fa4435160f9bb7a49ba93a25be3457d159a8a2
+
+PODFILE CHECKSUM: b03de4cf728797de8dd4bb1d2bf35eb842a35228
+
+COCOAPODS: 1.6.1

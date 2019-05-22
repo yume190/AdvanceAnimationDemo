@@ -1,0 +1,6 @@
+framework module KPDemo {
+  umbrella header "KPDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
